@@ -1,0 +1,4 @@
+../Core/Src/RingBuffer.c:9:6:RingBuffer_Init	24	static
+../Core/Src/RingBuffer.c:26:6:RingBuffer_Enqueue	32	static
+../Core/Src/RingBuffer.c:40:6:RingBuffer_Dequeue	32	static
+../Core/Src/RingBuffer.c:54:6:RingBuffer_Peek	32	static
