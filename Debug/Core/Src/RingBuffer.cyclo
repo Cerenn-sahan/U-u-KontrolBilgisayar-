@@ -1,4 +1,0 @@
-../Core/Src/RingBuffer.c:9:6:RingBuffer_Init	2
-../Core/Src/RingBuffer.c:26:6:RingBuffer_Enqueue	3
-../Core/Src/RingBuffer.c:40:6:RingBuffer_Dequeue	3
-../Core/Src/RingBuffer.c:54:6:RingBuffer_Peek	3

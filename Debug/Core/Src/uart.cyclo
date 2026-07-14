@@ -1,6 +1,0 @@
-../Core/Src/uart.c:12:6:Uart_Init	1
-../Core/Src/uart.c:23:6:Uart_Register	2
-../Core/Src/uart.c:31:9:Uart_ReadByte	2
-../Core/Src/uart.c:40:9:Uart_ReadPacket	2
-../Core/Src/uart.c:49:9:Uart_Write	2
-../Core/Src/uart.c:60:6:HAL_UART_TxCpltCallback	3

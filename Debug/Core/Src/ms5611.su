@@ -1,4 +1,0 @@
-../Core/Src/ms5611.c:17:6:MS5611_Tetikle	24	static
-../Core/Src/ms5611.c:21:10:MS5611_Oku_Hazir	32	static
-../Core/Src/ms5611.c:35:6:MS5611_Kurulum_Yap	32	static
-../Core/Src/ms5611.c:52:6:MS5611_Basinc_Guncelle	192	static
